@@ -28,3 +28,18 @@ For example: <br />
   print( f"Hello {name}" )
 
 [https://twitter.com/sarahg813/status/1311870649338601478](https://twitter.com/sarahg813/status/1311870649338601478)
+
+
+### Day 2: October 2, 2020 
+
+**Today's Progress:** 
+- Reviewed Big O, Bubble Sort, and Selection Sort
+- Did one LeetCode problem 
+
+**Thoughts:**  <br />
+- Starting to understand the running time of a problem
+- Trying to get comfortable at solving coding problems <br />
+Hoping I'll become more comfortable at both of them 
+
+[https://twitter.com/sarahg813/status/1312237966274813952](https://twitter.com/sarahg813/status/1312237966274813952)
+
