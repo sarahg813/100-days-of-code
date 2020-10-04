@@ -43,3 +43,10 @@ Hoping I'll become more comfortable at both of them
 
 [https://twitter.com/sarahg813/status/1312237966274813952](https://twitter.com/sarahg813/status/1312237966274813952)
 
+### Day 3: October 3, 2020 
+
+**Today's Progress:** 
+- Reviewed Arrays & Linked Lists
+- Learned about data type conversion, and try & except blocks in Python 
+
+[https://twitter.com/sarahg813/status/1312596279726411777](https://twitter.com/sarahg813/status/1312596279726411777)
