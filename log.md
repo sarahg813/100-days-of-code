@@ -50,3 +50,10 @@ Hoping I'll become more comfortable at both of them
 - Learned about data type conversion, and try & except blocks in Python 
 
 [https://twitter.com/sarahg813/status/1312596279726411777](https://twitter.com/sarahg813/status/1312596279726411777)
+
+### Day 4: October 5, 2020 
+
+**Today's Progress:** 
+- Learned about comparison operators, logical operators, conditionals in Python 
+
+[https://twitter.com/sarahg813/status/1313313973320724481](https://twitter.com/sarahg813/status/1313313973320724481)
