@@ -57,3 +57,12 @@ Hoping I'll become more comfortable at both of them
 - Learned about comparison operators, logical operators, conditionals in Python 
 
 [https://twitter.com/sarahg813/status/1313313973320724481](https://twitter.com/sarahg813/status/1313313973320724481)
+
+### Day 5: October 6, 2020 
+
+**Today's Progress:** 
+- Reviewed Recursion and the Call Stack 
+
+[https://twitter.com/sarahg813/status/1313682950354075648](https://twitter.com/sarahg813/status/1313682950354075648)
+
+
